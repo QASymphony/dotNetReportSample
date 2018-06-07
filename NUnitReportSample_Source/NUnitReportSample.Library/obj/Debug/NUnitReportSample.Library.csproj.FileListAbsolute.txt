@@ -1,0 +1,6 @@
+D:\3 Git\NUnitReportSample\NUnitReportSample.Library\bin\Debug\NUnitReportSample.Library.dll
+D:\3 Git\NUnitReportSample\NUnitReportSample.Library\bin\Debug\NUnitReportSample.Library.pdb
+D:\3 Git\NUnitReportSample\NUnitReportSample.Library\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\3 Git\NUnitReportSample\NUnitReportSample.Library\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\3 Git\NUnitReportSample\NUnitReportSample.Library\obj\Debug\NUnitReportSample.Library.dll
+D:\3 Git\NUnitReportSample\NUnitReportSample.Library\obj\Debug\NUnitReportSample.Library.pdb

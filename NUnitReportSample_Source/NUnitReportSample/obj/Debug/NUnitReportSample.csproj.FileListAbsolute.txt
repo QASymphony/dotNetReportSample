@@ -1,0 +1,4 @@
+D:\3 Git\NUnitReportSample\NUnitReportSample\bin\Debug\NUnitReportSample.dll
+D:\3 Git\NUnitReportSample\NUnitReportSample\bin\Debug\NUnitReportSample.pdb
+D:\3 Git\NUnitReportSample\NUnitReportSample\obj\Debug\NUnitReportSample.dll
+D:\3 Git\NUnitReportSample\NUnitReportSample\obj\Debug\NUnitReportSample.pdb

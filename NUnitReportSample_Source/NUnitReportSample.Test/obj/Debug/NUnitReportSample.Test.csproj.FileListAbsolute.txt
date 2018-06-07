@@ -1,0 +1,12 @@
+D:\3 Git\NUnitReportSample\NUnitReportSample.Test\bin\Debug\NUnitReportSample.Test.dll
+D:\3 Git\NUnitReportSample\NUnitReportSample.Test\bin\Debug\NUnitReportSample.Test.pdb
+D:\3 Git\NUnitReportSample\NUnitReportSample.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\3 Git\NUnitReportSample\NUnitReportSample.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\3 Git\NUnitReportSample\NUnitReportSample.Test\obj\Debug\NUnitReportSample.Test.csprojResolveAssemblyReference.cache
+D:\3 Git\NUnitReportSample\NUnitReportSample.Test\obj\Debug\NUnitReportSample.Test.dll
+D:\3 Git\NUnitReportSample\NUnitReportSample.Test\obj\Debug\NUnitReportSample.Test.pdb
+D:\3 Git\NUnitReportSample\NUnitReportSample.Test\bin\Debug\nunit.framework.dll
+D:\3 Git\NUnitReportSample\NUnitReportSample.Test\bin\Debug\NUnitReportSample.Library.dll
+D:\3 Git\NUnitReportSample\NUnitReportSample.Test\bin\Debug\NUnitReportSample.Library.pdb
+D:\3 Git\NUnitReportSample\NUnitReportSample.Test\bin\Debug\nunit.framework.pdb
+D:\3 Git\NUnitReportSample\NUnitReportSample.Test\bin\Debug\nunit.framework.xml
